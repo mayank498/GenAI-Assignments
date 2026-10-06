@@ -1,0 +1,3 @@
+table | 2500
+chair | 1700
+books | 1350
